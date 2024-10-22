@@ -4,9 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="icon" href="/php-files/pics/logo-removebg-preview.png">
     <link rel="stylesheet" href="./css-files/signup.css">
-    <title>Modern Login Page | AsmrProg</title>
+    <title>Travel stay</title>
+
 </head>
 
 <body>
